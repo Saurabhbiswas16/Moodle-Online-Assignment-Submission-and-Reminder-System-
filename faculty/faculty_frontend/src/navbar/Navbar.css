@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Ultra&display=swap');
+
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    padding: 15px;
+    
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    transition: 0.5s;
+    font-family: 'Ultra', serif;
+   
+}
+
+.navbar a:hover{
+    transform: scale(1.2); 
+    cursor: pointer; 
+}

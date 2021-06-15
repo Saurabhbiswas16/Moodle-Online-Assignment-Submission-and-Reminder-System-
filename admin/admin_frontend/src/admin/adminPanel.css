@@ -1,0 +1,9 @@
+.requestlist {
+  justify-content: space-evenly;
+}
+
+.twobuttons button {
+  float: right;
+  margin-left: 20px;
+  justify-content: space-around;
+}

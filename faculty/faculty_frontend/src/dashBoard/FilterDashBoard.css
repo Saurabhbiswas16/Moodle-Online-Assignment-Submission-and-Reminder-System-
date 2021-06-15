@@ -1,0 +1,17 @@
+Button {
+  width: 15vw;
+  height: 2vw;
+
+  color: #0ab4f7;
+  background-color: white;
+  text-decoration: none;
+  border: 1px solid #0ab4f7;
+  border-radius: 5px;
+}
+Button:hover {
+  background-color: #0ab4f7;
+  color: white;
+}
+Button:focus {
+  outline: none;
+}

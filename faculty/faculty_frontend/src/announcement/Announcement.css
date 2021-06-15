@@ -1,0 +1,7 @@
+
+
+.AnnouncementFormBody{
+    width: 70vh;
+    display: flex;
+    flex-direction: column;
+}

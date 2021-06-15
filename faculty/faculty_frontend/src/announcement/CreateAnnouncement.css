@@ -1,0 +1,25 @@
+.createButton{
+    position: absolute;
+    right: 10px;
+    top: 70px;
+    width: 7vw;
+    height: 2vw;
+    color: 	#0ab4f7;
+    background-color: white;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+.createButton:hover{
+    color: 	#0275d8;
+    background-color: white;
+    transform: scale(1.1);
+}
+.createButton:focus{
+    outline: none;
+}
+#standard-basic{
+   
+    width: 500px;
+ }

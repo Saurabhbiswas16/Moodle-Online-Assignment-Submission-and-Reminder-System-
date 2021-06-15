@@ -1,0 +1,35 @@
+.subjectbox {
+  display: flex;
+}
+.subjectlist {
+  justify-content: space-evenly;
+  display: block;
+}
+.assignmentlist {
+  width: 100%;
+}
+
+.subjectbutton Button {
+  width: 15vw;
+  height: 3vw;
+
+  color: #0ab4f7;
+  background-color: white;
+  text-decoration: none;
+  border: 1px solid #0ab4f7;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+.subjectbutton Button:hover {
+  background-color: #0ab4f7;
+  /* height: 4vw; */
+  color: white;
+}
+.subjectbutton Button:focus {
+  outline: none;
+}
+
+.subjectbutton {
+  height: 40px;
+  /* margin-bottom: 20px; */
+}

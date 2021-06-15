@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar_link{
+    
+    color:aqua !important;
+    border-bottom: 2px solid white;
+}

@@ -1,0 +1,9 @@
+.bodyConatiner{
+   display:flex;
+}
+.filterDashBoard{
+   display:row;
+}
+.submissionStatus{   
+   display:row;
+}

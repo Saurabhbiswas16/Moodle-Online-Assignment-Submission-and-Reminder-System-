@@ -1,0 +1,41 @@
+
+.container{
+    margin-top: 7vw;
+    width: fit-content;
+    border: 2px solid rgb(189, 173, 173);
+    border-radius: 10px;
+    box-shadow: -1px 13px 19px 0px rgba(0,0,0,0.75);
+}
+
+.form-group{
+    padding: 10px 20px;
+}
+.title{
+    margin-top: -30px;
+   width:200px;
+    text-align: center;
+   font-size: 30px;
+   background-color:  #0ab4f7;
+   color: white;
+   border-radius: 10px;
+}
+.button{
+    width: 300px;
+    color: 	#0ab4f7;
+    background-color: white;
+    text-decoration: none;
+    border: 1px solid #0ab4f7;
+    border-radius: 5px;
+    padding: 5px;
+}
+.button:hover{
+    background-color: #0ab4f7;
+    color: 	white;
+}
+.link{
+    text-decoration: none;
+    color: #0ab4f7;
+}
+.button:focus{
+    outline: none;
+}

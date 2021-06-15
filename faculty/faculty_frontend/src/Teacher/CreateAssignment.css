@@ -1,0 +1,8 @@
+.CreateAssignmentFormBody{
+    display: grid;
+    place-items: center;
+    background-color: white;
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
